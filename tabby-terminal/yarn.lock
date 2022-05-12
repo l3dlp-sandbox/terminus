@@ -171,9 +171,9 @@ xterm-addon-ligatures@^0.6.0-beta.14:
     font-ligatures "^1.4.1"
 
 xterm-addon-search@^0.9.0-beta.18:
-  version "0.9.0-beta.18"
-  resolved "https://registry.yarnpkg.com/xterm-addon-search/-/xterm-addon-search-0.9.0-beta.18.tgz#5317aed1dc747f468ccb7ecd151fb00d82a8a19d"
-  integrity sha512-SAeA3thc2WJNYXwjOEJFLpZ1ZVOs22RLmz9a6WcrzXkvCjLZRvbRGwX25Ms+Dd7dVDQNbKVUzUJohspP/vYr0Q==
+  version "0.9.0-beta.30"
+  resolved "https://registry.yarnpkg.com/xterm-addon-search/-/xterm-addon-search-0.9.0-beta.30.tgz#62d74dad93c15b638f76df989474840c171dfc2b"
+  integrity sha512-o6QKw+JV9meU5FpeaplvkqOsY4agsa7bVaZs4jx77LPisUyzsmCxLCU9yFagkKIoLZfehEQpWLbThx/sr2CpiA==
 
 xterm-addon-serialize@^0.7.0-beta.12:
   version "0.7.0-beta.12"
